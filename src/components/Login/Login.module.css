@@ -1,0 +1,15 @@
+.login{
+    border-radius: 20px;
+    padding : 10px;
+    border: 1px solid white;
+    color: white;
+    background-color: yellowgreen ;
+}
+
+.logout{
+    border-radius: 20px;
+    padding : 10px;
+    border: 1px solid white;
+    color: white;
+    background-color: chocolate ;
+}

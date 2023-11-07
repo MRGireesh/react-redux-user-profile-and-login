@@ -1,0 +1,19 @@
+.profile_block{
+margin: 10px 0;
+padding: 10px 20px;
+background-color: rgb(25, 66, 231);
+display: flex;
+align-items: center;
+}
+
+.user_details{
+    text-align: start;
+    flex: 1;
+    max-height: 100%;
+}
+
+.profilePic img{
+    width: 100px;
+    height: 100px;
+
+}
